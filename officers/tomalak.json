@@ -1,0 +1,102 @@
+{
+  "description": "",
+  "class": "command",
+  "faction": "romulan",
+  "group": "",
+  "img_url": "./assets/tomalak.png",
+  "officer_name": "Tomalak",
+  "ranks": [
+    {
+      "name": "Ensign I",
+      "rank_id": 1,
+      "requirements": {
+        "badges": 0,
+        "xp": 0
+      },
+      "shards": 34
+    },
+    {
+      "name": "Lieutenant JG II",
+      "rank_id": 2,
+      "requirements": {
+        "badges": 0,
+        "others": [],
+        "xp": 10000
+      },
+      "shards": 84
+    },
+    {
+      "name": "Lieutenant III",
+      "rank_id": 3,
+      "requirements": {
+        "badges": 0,
+        "others": [],
+        "xp": 100000
+      },
+      "shards": 184
+    },
+    {
+      "name": "Lt. Commander IV",
+      "rank_id": 4,
+      "requirements": {
+        "badges": 1,
+        "others": [],
+        "xp": 250000
+      },
+      "shards": 324
+    },
+    {
+      "name": "Commander V",
+      "rank_id": 5,
+      "requirements": {
+        "badges": 2,
+        "others": [],
+        "xp": 500000
+      },
+      "shards": 524
+    }
+  ],
+  "rarity": "rare",
+  "traits": [
+    {
+      "name": "Captain",
+      "levels": [
+        {
+          "level": 1,
+          "trait_xp": 1500
+        },
+        {
+          "level": 2,
+          "trait_xp": 2700
+        },
+        {
+          "level": 3,
+          "trait_xp": 3800
+        }
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Manipulative",
+      "levels": [
+        {
+          "level": 1,
+          "trait_xp": 7650
+        },
+        {
+          "level": 2,
+          "trait_xp": 6000
+        },
+        {
+          "level": 3,
+          "trait_xp": 7000
+        },
+        {
+          "level": 4,
+          "trait_xp": 8850
+        }
+      ],
+      "tier": 2
+    }
+  ]
+}

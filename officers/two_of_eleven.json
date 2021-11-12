@@ -1,27 +1,27 @@
 {
-  "description": "Even the Romulan Empire, with all of its power, cannot stop the unrelenting Borg assault. In the initial days of the invasion, the Romulans were content to watch from the sidelines as their enemies were assimilated, relying on their famed defensive fleets and intelligence agencies to protect them. They were mistaken. Decius, once a proud leader in the Romulan military, was taken captive by the Borg during a routine patrol of the Neutral Zone border. They had no warning and no chance of victory against a Borg Cube. He was subjected to the horrifying assimilation process and was forced to turn his brilliant strategic mind against his homeworld.",
+  "description": "The vast majority of those who make up the overwhelming numbers of the Borg were not born into the Collective. At one point in time, they were all individuals with their own unique lives, hopes and aspirations. Two of Ten, known in their former life as Darrohk, was one of those individuals.\nAt the height of their military career, Darrohk was a commanding officer aboard the Lhohnu - a shining jewel in the Romulan Star Empire's mining fleet. At one point in time, the Lhohnu oversaw the acquisition of more than twenty percent of the Empire\u2019s entire Dilithium reserves. Specializing in mining expeditions in some of the more tumultuous and dangerous systems in the galaxy, Darrohk and their fellow crew aboard the Lhohnu were a force to be reckoned with in the excavation business.",
   "ability_info": {
     "captain_maneuver": {
-      "name": "Resistance is Futile",
-      "bonus": "{value} chance of adding 2 shots to each weapon when fighting Borg Tactical Probes",
+      "name": "Storage Optimization",
+      "bonus": "{value} to Cargo size",
       "percentage": true,
       "value": 0.2
     },
     "officer_ability": {
-      "name": "Strengthen the Unimatrix",
-      "bonus": "{value} to the Health of all Officers on the ship",
+      "name": "Extraction Protocol",
+      "bonus": "{value} to G3 & G4 Mining Speed.",
       "percentage": true
     }
   },
   "class": "science",
   "faction": "neutral",
   "group": "unimatrix twelve",
-  "img_url": "./assets/seven_of_ten.png",
-  "officer_name": "Seven of Ten",
+  "img_url": "./assets/two_of_ten.png",
+  "officer_name": "Two of Eleven",
   "ranks": [
     {
       "name": "Ensign I",
-      "officer_ability_value": 0.6,
+      "officer_ability_value": 0.5,
       "rank_id": 1,
       "requirements": {
         "badges": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Lieutenant JG II",
-      "officer_ability_value": 0.7,
+      "officer_ability_value": 0.55,
       "rank_id": 2,
       "requirements": {
         "badges": 0,
@@ -50,7 +50,7 @@
     },
     {
       "name": "Lieutenant III",
-      "officer_ability_value": 0.8,
+      "officer_ability_value": 0.6,
       "rank_id": 3,
       "requirements": {
         "badges": 1,
@@ -67,7 +67,7 @@
     },
     {
       "name": "Lt. Commander IV",
-      "officer_ability_value": 0.9,
+      "officer_ability_value": 0.65,
       "rank_id": 4,
       "requirements": {
         "badges": 2,
@@ -84,7 +84,7 @@
     },
     {
       "name": "Commander V",
-      "officer_ability_value": 1,
+      "officer_ability_value": 0.75,
       "rank_id": 5,
       "requirements": {
         "badges": 4,
@@ -102,9 +102,9 @@
   ],
   "rarity": "rare",
   "synergy": {
-    "command": 0.35,
-    "engineering": 0.35,
-    "science": 0.15
+    "command": 0.15,
+    "engineering": 0.15,
+    "science": 0.05
   },
   "traits": [
     {
@@ -126,7 +126,7 @@
       "tier": 1
     },
     {
-      "name": "Dedicated",
+      "name": "Cybernetic",
       "levels": [
         {
           "level": 1,

@@ -1,23 +1,23 @@
 {
-  "description": "When the USS Sterling went missing in action at the borders of Borg-occupied space, Cadet Gonzales was among the first crew assigned to investigate the ship\u2019s disappearance. However, it was not long before members of this search party were greeted with the same fate as the Sterling\u2019s crew - a forced, painful assimilation into the Borg Collective. Lucia Gonzales is dead. All that remains is Nine of Ten, Septenary Adjunct of Unimatrix Twelve.",
+  "description": "During the Borg onslaught, Azetbur took it upon herself to covertly enter Borg-occupied space in an attempt to study and understand this dangerous new enemy. Unfortunately, her curiosity would prove treacherous, as she was quickly captured and assimilated into the Collective. Where Azetbur, daughter of Gorkon, of the House of Makok once stood, there now remains only Eight of Ten. Tormented by the loss of his daughter to the Borg Collective, Chancellor Gorkon will stop at nothing until she is returned to her former self.",
   "ability_info": {
     "captain_maneuver": {
-      "name": "Borg Polarization",
-      "bonus": "{value} to opponent Borg Critical Hit Chance",
+      "name": "Fight the Collective",
+      "bonus": "{value} to Critical Hit Chance against Borg ships",
       "percentage": true,
-      "value": -0.1
+      "value": 0.1
     },
     "officer_ability": {
-      "name": "Adapt & Overcome",
-      "bonus": "{value} to the Defense of all Officers on the Ship",
+      "name": "Cybernetic Enhancements",
+      "bonus": "{value} to the Attack of all Officers on the Ship",
       "percentage": true
     }
   },
-  "class": "command",
+  "class": "engineering",
   "faction": "neutral",
   "group": "unimatrix twelve",
-  "img_url": "./assets/nine_of_ten.png",
-  "officer_name": "Nine of Ten",
+  "img_url": "./assets/eight_of_ten.png",
+  "officer_name": "Eight of Eleven",
   "ranks": [
     {
       "name": "Ensign I",
@@ -102,9 +102,9 @@
   ],
   "rarity": "uncommon",
   "synergy": {
-    "command": 0.05,
-    "engineering": 0.1,
-    "science": 0.1
+    "command": 0.2,
+    "engineering": 0.05,
+    "science": 0.2
   },
   "traits": [
     {
