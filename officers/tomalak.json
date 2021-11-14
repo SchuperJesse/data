@@ -57,6 +57,11 @@
     }
   ],
   "rarity": "rare",
+  "synergy": {
+    "command": 0.25,
+    "engineering": 0,
+    "science": 0
+  },
   "traits": [
     {
       "name": "Captain",

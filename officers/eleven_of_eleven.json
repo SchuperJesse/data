@@ -73,6 +73,11 @@
     }
   ],
   "rarity": "epic",
+  "synergy": {
+    "command": 0.45,
+    "engineering": 0.45,
+    "science": 0.3
+  },
   "traits": [
     {
       "name": "Assimilated",

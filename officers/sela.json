@@ -57,6 +57,11 @@
     }
   ],
   "rarity": "epic",
+  "synergy": {
+    "command": 0.1,
+    "engineering": 0,
+    "science": 0
+  },
   "traits": [
     {
       "name": "Deceptive",
