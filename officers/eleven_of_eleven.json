@@ -37,7 +37,8 @@
         "badges": 0,
         "others": [
           {
-            "Independent Credits": 1300
+            "name": "Independent Credits",
+            "value": 1300
           }
         ],
         "xp": 0
@@ -52,7 +53,8 @@
         "badges": 1,
         "others": [
           {
-            "Independent Credits": 5200
+            "name": "Independent Credits",
+            "value": 5200
           }
         ],
         "xp": 0
@@ -67,7 +69,8 @@
         "badges": 2,
         "others": [
           {
-            "Independent Credits": 13000
+            "name": "Independent Credits",
+            "value": 13000
           }
         ],
         "xp": 0
@@ -82,7 +85,8 @@
         "badges": 4,
         "others": [
           {
-            "Independent Credits": 28600
+            "name": "Independent Credits",
+            "value": 28600
           }
         ],
         "xp": 0
