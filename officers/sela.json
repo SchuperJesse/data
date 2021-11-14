@@ -1,5 +1,18 @@
 {
   "description": "",
+  "ability_info": {
+    "captain_maneuver": {
+      "name": "Hit Them Where It Hurts",
+      "bonus": "While cloaked, Sela increases Critical Hit Damage by {value}.",
+      "percentage": true,
+      "value": 0.5
+    },
+    "officer_ability": {
+      "name": "Civilized Persistence",
+      "bonus": "When fighting other players, Sela decreases the enemy's Critical Hit Chance by {value} every time the ship scores a hit.",
+      "percentage": true
+    }
+  },
   "class": "command",
   "faction": "romulan",
   "group": "Pride of Romulus",

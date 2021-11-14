@@ -1,5 +1,18 @@
 {
   "description": "",
+  "ability_info": {
+    "captain_maneuver": {
+      "name": "Patient Tactician",
+      "bonus": "While cloaked, Tomalak increases Armor Piercing, Shield Penetration and Accuracy by {value}",
+      "percentage": true,
+      "value": 1
+    },
+    "officer_ability": {
+      "name": "Death over Disgrace",
+      "bonus": "Tomalak increases Weapon Damage against Klingon targets by {value} of total Crew Attack",
+      "percentage": true
+    }
+  },
   "class": "command",
   "faction": "romulan",
   "group": "",

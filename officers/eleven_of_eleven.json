@@ -1,5 +1,18 @@
 {
   "description": "",
+  "ability_info": {
+    "captain_maneuver": {
+      "name": "Efficient Crystal Acquisition",
+      "bonus": "increases Crystal mining speed by {value}.",
+      "percentage": true,
+      "value": 0.6
+    },
+    "officer_ability": {
+      "name": "Advanced Warp Theory",
+      "bonus": "increase warp speed by {value}",
+      "percentage": true
+    }
+  },
   "class": "science",
   "faction": "neutral",
   "group": "Unimatrix Twelve",
